@@ -1,0 +1,7 @@
+- untuk menggunakan reosurce saat membuat controller
+    php artisan make:controller namaController --resource
+- membuat model sekaligus migration
+    php artisan make:model namaModel -m
+- menggunakan extension laravel blade snippet
+- untuk melihat fungsi apa yang dipanggil untuk method tertentu dari sebuah controller
+    php artisan route:list
